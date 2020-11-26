@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# IDE specific 
+.vscode/
+.history/
+
+# Ignore Solutions until after tutorial
