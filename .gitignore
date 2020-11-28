@@ -133,3 +133,4 @@ dmypy.json
 .history/
 
 # Ignore Solutions until after tutorial
+*-Loesung.ipynb
