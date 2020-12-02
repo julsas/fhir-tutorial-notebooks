@@ -132,5 +132,4 @@ dmypy.json
 .vscode/
 .history/
 
-# Ignore Solutions until after tutorial
-*-Loesung.ipynb
+Lösungen/
